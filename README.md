@@ -1,18 +1,17 @@
 # Gabriel Vieira Nogueira
 
-**Backend Developer | .NET | APIs | Cloud**
+**Fullstack Developer | .NET | APIs | Cloud**
 
 ---
 
 ### 🚀 Tech Stack
 <div>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,postgres,git,azure" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,tailwind,postgres,git,azure" />
 </div>
 
 ---
 
-### 📊 GitHub
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvn95&show_icons=true&theme=tokyonight)
+### 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvn95&layout=compact&theme=tokyonight)
 
 ---
