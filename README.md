@@ -1,5 +1,5 @@
 
-Hi 👋! I'm **Gabriel Vieira Nogueira**, a passionate **Fullstack Developer** from Brazil 🇧🇷  
+Hi 👋! I'm **Gabriel Vieira Nogueira**, a **Fullstack Developer** from Brazil 🇧🇷  
 
 
 ---
