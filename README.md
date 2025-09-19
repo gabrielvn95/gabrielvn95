@@ -6,8 +6,7 @@
 
 ### 🚀 Tech Stack
 <div>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,postgres,git" />
-  <img src="https://skillicons.dev/icons?i=azure,aws,heroku,docker" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,postgres,git,azure" />
 </div>
 
 ---
