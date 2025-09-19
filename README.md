@@ -20,6 +20,13 @@
 ### 📊 GitHub Stats
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvn95&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvn95&layout=compact&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Activity
+![GitHub Streak](https://streak-stats.demolab.com?user=gabrielvn95&theme=tokyonight&hide_border=true)
+
 ---
 
 ### 🌐 Connect with me
@@ -29,7 +36,7 @@
 <a href="mailto:gabrielsantossim.nogueira4@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://instagram.com/seuinsta" target="_blank">
+<a href="https://instagram.com/gabriel___noguer" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://github.com/gabrielvn95" target="_blank">
