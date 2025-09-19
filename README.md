@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm **Gabriel Vieira Nogueira**, a passionate **Fullstack Developer** from Brazil 🇧🇷  
-Specialized in building scalable applications with **.NET, Angular, and modern web technologies**.
+
 
 ---
 
