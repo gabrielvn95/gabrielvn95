@@ -4,19 +4,19 @@
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 <div>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,tailwind,postgres,git,azure" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,js,ts,html,css,tailwind,postgres,git,azure" />
 </div>
 
 ---
 
-### 📊 Most Used Languages
+### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvn95&layout=compact&theme=tokyonight)
 
 ---
 
-### 🌐 Connect
+### Connect
 <a href="https://www.linkedin.com/in/gabriel-vieira-nogueira-85170828a/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
