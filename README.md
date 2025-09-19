@@ -1,22 +1,23 @@
-# Gabriel Vieira Nogueira
+# Hi there 👋
 
-**Fullstack Developer | .NET | APIs | Cloud**
+I'm **Gabriel Vieira Nogueira**, a passionate **Fullstack Developer** from Brazil 🇧🇷  
+Specialized in building scalable applications with **.NET, Angular, and modern web technologies**.
 
 ---
 
-### Tech Stack
+### 🚀 Tech Stack
 <div>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,js,ts,html,css,tailwind,postgres,git,azure" />
 </div>
 
 ---
 
-### Most Used Languages
+### 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvn95&layout=compact&theme=tokyonight)
 
 ---
 
-### Connect
+### 🌐 Connect
 <a href="https://www.linkedin.com/in/gabriel-vieira-nogueira-85170828a/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
