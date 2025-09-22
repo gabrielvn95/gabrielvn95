@@ -1,5 +1,4 @@
-
-<h2>Hi 👋! I'm **Gabriel Vieira Nogueira**, a **Fullstack Developer** from Brazil 🇧🇷</h2>  
+<h2>Hi 👋! I'm Gabriel Vieira Nogueira, a Fullstack Developer from Brazil 🇧🇷</h2>  
 
 
 ---
