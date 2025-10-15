@@ -1,4 +1,4 @@
-<h1>Hi 👋! I'm Gabriel Vieira, a Fullstack Developer from Brazil 🇧🇷</h1>  
+<h2>Hi 👋! I'm Gabriel Vieira, a Fullstack Developer from Brazil 🇧🇷</h2>  
 
 
 ---
