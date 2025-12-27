@@ -10,11 +10,6 @@
 
 ---
 
-### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvn95&layout=compact&theme=tokyonight)
-
----
-
 ### 🌐 Contact me
 <a href="https://www.linkedin.com/in/gabriel-vieira-nogueira-85170828a/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
