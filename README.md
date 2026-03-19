@@ -1,14 +1,12 @@
 <h1>Hi 👋! I'm Gabriel Vieira, a Fullstack Developer from Brazil 🇧🇷</h1>  
 
 
----
 
 ### 🚀 Tech Stack
 <div>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,js,ts,html,css,tailwind,postgres,git,azure" />
 </div>
 
----
 
 ### 🌐 Contact me
 <a href="https://www.linkedin.com/in/gabriel-vieira-nogueira-85170828a/" target="_blank">
